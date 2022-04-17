@@ -1,6 +1,8 @@
-### Hello! I'm Vladimir 👋
+### Hi, I'm Vladimir 👋
 
-I'm backend developer. 
+I'm backend developer. I know framework Django quite well to create my own websites.
+
+In my projects I use: Python, C++
 <!--
 **WocherZ/WocherZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
