@@ -1,6 +1,7 @@
 ### Hi, I'm Vladimir 👋
 
 I'm backend developer. I know framework Django quite well to create my own websites :computer:
+I like participate in hackathons and programming olympiads⚡
 
 :briefcase: In my projects I use: Python, C++
 <!--
