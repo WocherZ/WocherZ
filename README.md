@@ -1,10 +1,12 @@
 ### Hi, I'm Vladimir 👋
 
-I'm backend developer. I know framework Django quite well to create my own websites :computer:
+I'm backend developer :computer:
 
 I like participate in hackathons and programming olympiads⚡
 
-:briefcase: In my projects I use: Python, C++
+:briefcase: I'm programming in: Java, Kotlin, Python
+
+:rocket: In my projects I use: Spring, Ktor, Django
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WocherZ&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
