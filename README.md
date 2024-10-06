@@ -1,12 +1,8 @@
 ### Hi, I'm Vladimir 👋
 
-I'm backend developer :computer:
+I'm NLP and ML engineer :computer:
 
-I like participate in hackathons and programming olympiads⚡
-
-:briefcase: I'm programming in: Java, Kotlin, Python
-
-:rocket: In my projects I use: Spring, Ktor, Django
+I like participate in hackathons and olympiads⚡
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WocherZ&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
